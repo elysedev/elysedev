@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently work at Undisclosed Company as Front End Developer
+- 🌱 I’m currently learning back end development
+- 😄 Pronouns: she/her
+
 <!--
 **elysedev/elysedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
